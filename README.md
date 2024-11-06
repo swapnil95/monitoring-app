@@ -25,3 +25,5 @@ npm run dev
 - Limitations on Table:
   - The Table row doesn't show any more detail about the log record it shows upon clicking. This functionality is not implemented
   - The table should adjust its width with bigger screen sizes to be better aligned with the histogram
+  - The Data column should be formatted the way the histogram shows the date. That would make it easier to read
+  - The content of the body column should be formatted to capitalize the first letter
